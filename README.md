@@ -8,11 +8,11 @@
 ## About me
  
 - 🌐 Junior Full Stack Web developer
-- 📖 𝗠𝗢𝗗𝗨𝗟𝗘 𝟭: HTML5/CSS3.⁣
-- 📈 𝗠𝗢𝗗𝗨𝗟𝗘 𝟮: JavaScript from zero to advanced.⁣
-- 📝 𝗠𝗢𝗗𝗨𝗟𝗘 𝟯: database MySQL.⁣
-- 🗃 𝗠𝗢𝗗𝗨𝗟𝗘 𝟰: Node.js and Express.js.⁣
-- ⚙ 𝗠𝗢𝗗𝗨𝗟𝗘 𝟱: React.js
+- 📖 HTML5/CSS3.⁣
+- 📈 JavaScript from zero to advanced.⁣
+- 📝 database MySQL.⁣
+- 🗃 Node.js and Express.js.⁣
+- ⚙ React.js
 <br>
 
 ## School Projects
