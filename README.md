@@ -41,7 +41,7 @@
 <br>
 <p>
 <a href="https://github.com/FranJimenezCriado/Pokedex" target="_blank">
-<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/CODE-red?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
 </p>School Project by my own. Using JavaScript document to show API information about Pokemon</p>
@@ -58,7 +58,7 @@
 <a href="https://github.com/FranJimenezCriado/Preguntas-Y-Respuestas" target="_blank"><img src="https://img.freepik.com/fotos-premium/preguntas-respuestas-palabras-tipografia-metalica-aisladas-sobre-fondo-blanco_764664-3643.jpg" width="400" alt="Quenstions and answers image"></a>
 <p>
 <a href="https://github.com/FranJimenezCriado/Preguntas-Y-Respuestas" target="_blank">
-<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/CODE-white?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
 <p>School Project by my own. Game of 50 questions and answers from movies. Questions, answers and correct answers are obtained from the API</p>
@@ -72,7 +72,7 @@
 <a href="https://github.com/FranJimenezCriado/Prediccion-de-lluvia" target="_blank"><img src="https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/nhjxygyi-1559831904.jpg?crop=1.00xw:1.00xh;0,0&resize=900:*" width="400" alt="Rain prediction image"></a>
 <p>
 <a href="https://github.com/FranJimenezCriado/Prediccion-de-lluvia" target="_blank">
-<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/CODE-blue?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
 <p>School Project by my own. Rain prediction of the next 8 hours using GPS ubication, responses obtained from API</p>
